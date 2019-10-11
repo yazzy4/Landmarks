@@ -13,6 +13,7 @@
 		91218A212343ED0D00D8CCD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91218A202343ED0D00D8CCD3 /* Assets.xcassets */; };
 		91218A242343ED0D00D8CCD3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91218A232343ED0D00D8CCD3 /* Preview Assets.xcassets */; };
 		91218A272343ED0D00D8CCD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91218A252343ED0D00D8CCD3 /* LaunchScreen.storyboard */; };
+		91DCFC972350DBAD00E2665E /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91DCFC962350DBAD00E2665E /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		91218A232343ED0D00D8CCD3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		91218A262343ED0D00D8CCD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		91218A282343ED0D00D8CCD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		91DCFC962350DBAD00E2665E /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				91218A1A2343ED0A00D8CCD3 /* AppDelegate.swift */,
 				91218A1C2343ED0A00D8CCD3 /* SceneDelegate.swift */,
 				91218A1E2343ED0A00D8CCD3 /* ContentView.swift */,
+				91DCFC962350DBAD00E2665E /* CircleImage.swift */,
 				91218A202343ED0D00D8CCD3 /* Assets.xcassets */,
 				91218A252343ED0D00D8CCD3 /* LaunchScreen.storyboard */,
 				91218A282343ED0D00D8CCD3 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				91218A1B2343ED0A00D8CCD3 /* AppDelegate.swift in Sources */,
 				91218A1D2343ED0A00D8CCD3 /* SceneDelegate.swift in Sources */,
+				91DCFC972350DBAD00E2665E /* CircleImage.swift in Sources */,
 				91218A1F2343ED0A00D8CCD3 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
